@@ -1,0 +1,826 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>What peace to the wicked? or, An expostulatorie answer to a derisorie question, lately made concerning peace. By a free-man, though a prisoner. The author spares his name; not, that he dares not to let you know it; but, because he cares not.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96787</idno>
+            <idno type="STC">Wing W3212</idno>
+            <idno type="STC">Thomason E510_11</idno>
+            <idno type="STC">ESTC R205616</idno>
+            <idno type="EEBO-CITATION">99864944</idno>
+            <idno type="PROQUEST">99864944</idno>
+            <idno type="VID">117177</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96787)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117177)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 80:E510[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>What peace to the wicked? or, An expostulatorie answer to a derisorie question, lately made concerning peace. By a free-man, though a prisoner. The author spares his name; not, that he dares not to let you know it; but, because he cares not.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A free-man, though a prisoner = George Wither.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "George Withers"; "Aug: 3d London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117177:1"/>
+            <pb facs="tcp:117177:1" rendition="simple:additions"/>
+            <p>
+               <hi>What Peace to the wicked? OR,</hi> An Expoſtulatorie Anſwer TO A Deriſorie Queſtion, Lately made CONCERNING PEACE.</p>
+            <p>BY <hi>A Free-man, though a Priſoner.</hi>
+            </p>
+            <p>The AUTHOR ſpares his Name; not, that he dares not To let you know it; but, becauſe he cares not. <add>George Withers</add>
+            </p>
+            <p>
+               <add>Aug: 3<hi rend="sup">d</hi> London</add>
+               <hi>Printed in the Yeer</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:117177:2"/>
+            <pb n="1" facs="tcp:117177:2"/>
+            <head>An Expoſtulatorie <hi>Anſwer</hi> to a Deriſorie <hi>Queſtion</hi> lately made concerning PEACE.</head>
+            <lg>
+               <l>
+                  <hi>ONe,</hi> who hath, ſeldome, in his daies,</l>
+               <l>From <hi>Fools,</hi> or <hi>Knaves,</hi> had love or praiſe;</l>
+               <l>And, who, throughout this <hi>Iſle,</hi> is knowne,</l>
+               <l>With cheerfulneſſe, to have beſtowne</l>
+               <l>His <hi>Wit, Paines, Perſon</hi> and <hi>Eſtate,</hi>
+               </l>
+               <l>The <hi>Publike-Rights</hi> to vindicate,</l>
+               <l>Along impriſonment hath had,</l>
+               <l>For calling of a <hi>Spade,</hi> a <hi>Spade;</hi>
+               </l>
+               <l>Which (if a <hi>Court-Card</hi>) might have been</l>
+               <l>Next to the <hi>King,</hi> except the <hi>Queen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As <hi>He,</hi> in his confinement lay,</l>
+               <l>Some asked him, the other day,</l>
+               <l>When he ſuppos'd this <hi>Warre</hi> ſhould end,</l>
+               <l>Or what ſucceſſes would attend</l>
+               <l>Our hopes of <hi>Peace:</hi> which <hi>Queſtion,</hi> tho</l>
+               <l>From <hi>Levity</hi> it ſeem'd to flow,</l>
+               <l>Or, <hi>ſcoffingly,</hi> to be expreſt,</l>
+               <l>Receiv'd this <hi>Anſwer,</hi> not in jeſt.</l>
+            </lg>
+            <lg>
+               <l>Why ask ye when this <hi>Warre</hi> will ceaſe?</l>
+               <l>Or, when this <hi>Kingdome</hi> ſhall have PEACE?</l>
+               <l>As if you thought, I could fore-ſhew</l>
+               <l>What things hereafter would enſue:</l>
+               <l>Or, as if when the <hi>Truth</hi> were told,</l>
+               <l>You value, or believe it could;</l>
+               <l>Who, nor eſteem, nor uſe have made</l>
+               <l>Of thoſe <hi>Fore-warnings</hi> you have had?</l>
+            </lg>
+            <lg>
+               <l>They that will know what ſhall <hi>ſucceed,</hi>
+               </l>
+               <l>Muſt of <hi>Things-paſt</hi> take ſerious heed;</l>
+               <l>And, gleane <hi>Inſtructions,</hi> whilſt they may,</l>
+               <l>From Actions of the <hi>preſent-Day:</hi>
+               </l>
+               <l>For, <hi>paſt,</hi> and <hi>preſent Time</hi> declares,</l>
+               <l>What, for the <hi>Future,</hi> GOD prepares;</l>
+               <l>And, till <hi>theſe</hi> quicken their fore-ſights,</l>
+               <l>Men ſit in darkneſſe, till he ſmites.</l>
+            </lg>
+            <lg>
+               <l>If to this <hi>Queſtion,</hi> you would know</l>
+               <l>An <hi>Anſwer,</hi> which the <hi>Truth</hi> ſhall ſhow,</l>
+               <l>And, not (with <hi>Ahab-like-Deſires</hi>)</l>
+               <l>Wiſh all your <hi>Prophets</hi> would be liers;</l>
+               <l>Then, ask your <hi>Conſciences,</hi> and they</l>
+               <l>Will tell, what things expect you may:</l>
+               <l>For, let my <hi>Troubles</hi> never ceaſe,</l>
+               <l>If ever ſome have other <hi>Peace</hi>
+               </l>
+               <l>Then what their <hi>Conſciences</hi> fore-ſee,</l>
+               <l>Though KING and PARLIAMENT agree</l>
+            </lg>
+            <lg>
+               <l>But, leſt the <hi>Conſcience</hi> may be ſear'd;</l>
+               <l>Or, leſt <hi>Deluſions</hi> have appear'd,</l>
+               <l>Which promiſe <hi>Peace,</hi> when ſhe is fled,</l>
+               <l>(And <hi>Vengeance</hi> hangeth over-head)</l>
+               <l>Ask your own <hi>Feares,</hi> and <hi>humane-Reaſon<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>What they conjecture of the <hi>ſeaſon:</hi>
+               </l>
+               <l>Ask them, what ſigne it is of <hi>Peace,</hi>
+               </l>
+               <l>When <hi>wickedneſſe</hi> doth more increaſe;</l>
+               <l>What may be hop'd for of that <hi>Nation,</hi>
+               </l>
+               <l>That ſleights her <hi>dayes of Viſitation;</hi>
+               </l>
+               <l>That mendeth not for <hi>words,</hi> nor <hi>blowes<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>That, in <hi>reforming,</hi> worſer growes;</l>
+               <l>That ſuffers <hi>them</hi> who ſerve Her beſt,</l>
+               <l>To be moſt wronged, and oppreſt;</l>
+               <l>And, on her <hi>Face,</hi> all tokens hath</l>
+               <l>Of <hi>deſolation,</hi> and of <hi>wrath.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When this is well inquired out,</l>
+               <l>If ſtill you ſhall remaine in doubt,</l>
+               <l>What we may ſeem fore-doom'd unto;</l>
+               <l>Let me perſwade you thus to do.</l>
+               <l>Get <hi>information,</hi> when the KING</l>
+               <l>Intends a <hi>Palinode</hi> to ſing;</l>
+               <l>When he will their <hi>ill-counſells</hi> leave,</l>
+               <l>Who are <hi>deceived,</hi> and <hi>deceive:</hi>
+               </l>
+               <l>What ſetled <hi>peace</hi> we can deviſe,</l>
+               <l>Whilſt <hi>Irelands-blood</hi> for vengeance cries:</l>
+               <l>Whilſt they, who ſought to have begot</l>
+               <l>A Schiſme betwixt <hi>
+                     <g ref="char:V">Ʋ</g>s,</hi> and the <hi>Scot,</hi>
+               </l>
+               <l>Have <hi>Truſt,</hi> or <hi>Power:</hi> or, els, whilſt they</l>
+               <l>Eſcape unblam'd, who ſcandals lay</l>
+               <l>Upon that <hi>Army,</hi> by whoſe hand</l>
+               <l>GOD, hath from <hi>Thrall,</hi> redeem'd this <hi>Land;</hi>
+               </l>
+               <pb n="2" facs="tcp:117177:3"/>
+               <l> Both to the grief, and ſhame, of them,</l>
+               <l>VVho, their <hi>beginnings</hi> did contemne.</l>
+               <l>Or, whilſt the perſon of the PRINCE,</l>
+               <l>(VVhich traiterouſly was ſent from hence)</l>
+               <l>Is kept in <hi>France,</hi> to have ſome fine</l>
+               <l>New-fooliſh-miſchievous Deſigne</l>
+               <l>Rais'd thereupon; for, who can tell,</l>
+               <l>But, that, he there ſo long may dwell,</l>
+               <l>As, his due birth-right to recover,</l>
+               <l>And, bring his <hi>Peaſant-Subjects</hi> over,</l>
+               <l>To help perſwade with us, that we</l>
+               <l>VVould, here, be ſlaves, as, there, they be.</l>
+               <l>Now, if this be the plot, I feare,</l>
+               <l>It will be long, ere <hi>Peace</hi> be here.</l>
+            </lg>
+            <lg>
+               <l>VVhat <hi>Peace</hi> can we expect, whilſt they</l>
+               <l>Who ſpoiled us, not onely may</l>
+               <l>Finde <hi>mercy,</hi> (which we could allow)</l>
+               <l>But, ſo imperious, alſo grow,</l>
+               <l>As, to reproach us to our Faces,</l>
+               <l>Ev'n in our <hi>priviledged-Places?</hi>
+               </l>
+               <l>Who, once, thought better <hi>fruits</hi> would come</l>
+               <l>By that which we have parted from:</l>
+               <l>But mark the end; and judge what <hi>Peace</hi>
+               </l>
+               <l>VVill follow, when your friends decreaſe;</l>
+               <l>VVhen more <hi>Malignants</hi> are return'd;</l>
+               <l>VVhen they who love the <hi>State,</hi> are ſcorn'd;</l>
+               <l>And ſome, who ſerv'd it, heretofore,</l>
+               <l>Are growne as <hi>mad,</hi> as they are <hi>poore.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If, yet, you cannot well diſcerne,</l>
+               <l>VVhen <hi>Peace</hi> will back again returne,</l>
+               <l>Get knowledge, with all ſpeed ye may,</l>
+               <l>VVhat game <hi>Malignants</hi> have to play;</l>
+               <l>How farre they have, as yet, to run</l>
+               <l>In that wild <hi>Courſe,</hi> too ſoone begun;</l>
+               <l>VVhen they are like to call to minde</l>
+               <l>VVhat lies <hi>before them,</hi> and <hi>behinde;</hi>
+               </l>
+               <l>VVhat <hi>future-plot</hi> it may advance,</l>
+               <l>To let ſo many paſſe to <hi>France,</hi>
+               </l>
+               <l>On their bare <hi>words,</hi> who careleſſe are</l>
+               <l>Of what they either <hi>ſay,</hi> or <hi>ſweare:</hi>
+               </l>
+               <l>VVhat can be hoped-for, of thoſe</l>
+               <l>VVho are, irrationally, Foes:</l>
+               <l>VVith <hi>ſafety,</hi> what we can propound,</l>
+               <l>VVhere, little, ſave <hi>deceit,</hi> is found:</l>
+               <l>Or, what good <hi>Harveſt</hi> can be mowne,</l>
+               <l>VVhere, onely, <hi>miſchiefe</hi> hath been ſowne:</l>
+               <l>And, when theſe things are truly weigh'd,</l>
+               <l>You'l <hi>thinke</hi> as much as may be <hi>ſaid.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If not; then, next, inquire, how long</l>
+               <l>
+                  <hi>Diviſions</hi> will be rais'd among</l>
+               <l>The <hi>Lords</hi> and <hi>Commons;</hi> and, when we</l>
+               <l>Shall finde both <hi>Houſes</hi> ſo agree,</l>
+               <l>That, to the publike detriment,</l>
+               <l>Nor <hi>Houſe,</hi> nor <hi>Member</hi> ſhall diſſent,</l>
+               <l>Or be united; but, inſiſt</l>
+               <l>Upon the <hi>common-intereſt;</hi>
+               </l>
+               <l>And, <hi>Priviledge,</hi> nor <hi>Cuſtome,</hi> ſtraine,</l>
+               <l>An <hi>Innovation</hi> to maintaine,</l>
+               <l>VVherby they may <hi>invade</hi> each other,</l>
+               <l>Or, <hi>ſeparate</hi> from one another:</l>
+               <l>For, you have heard what lot betides</l>
+               <l>A <hi>Houſe,</hi> or <hi>Kingdom,</hi> that divides;</l>
+               <l>And know, what's likely to ſucceed,</l>
+               <l>Till our <hi>Peace-makers</hi> are agreed.</l>
+            </lg>
+            <lg>
+               <l>If, waſt, <hi>Jeruſalem</hi> was made,</l>
+               <l>VVho, therein, but three <hi>factions,</hi> had;</l>
+               <l>This <hi>Iſland,</hi> how may we deplore,</l>
+               <l>VVherein are <hi>three times three,</hi> and more!</l>
+            </lg>
+            <lg>
+               <l>Some, with the <hi>Parliament</hi> partake;</l>
+               <l>Some, for the <hi>King</hi> a <hi>party</hi> make,</l>
+               <l>As he is <hi>King:</hi> And, ſome, that, <hi>He</hi>
+               </l>
+               <l>A <hi>Tyrant</hi> might become to be:</l>
+               <l>Some, would a <hi>Popular-eſtate;</hi>
+               </l>
+               <l>Some, <hi>Ariſtocracie</hi> create:</l>
+               <l>Some, are a <hi>faction,</hi> for the <hi>Pope;</hi>
+               </l>
+               <l>Some, to maintain the <hi>Prelates</hi> hope;</l>
+               <l>Some, for the <hi>Preſbyterians</hi> vote;</l>
+               <l>Some, <hi>Independency</hi> promote,</l>
+               <l>Some, ſtrive for <hi>this,</hi> and ſome for <hi>that,</hi>
+               </l>
+               <l>Some, neither know, nor care for what,</l>
+               <l>So <hi>Wars</hi> go on, and get they may</l>
+               <l>
+                  <hi>Free-quarter, Plunder,</hi> and their <hi>Pay.</hi>
+               </l>
+               <l>Some, fight their <hi>Liberties</hi> to ſave;</l>
+               <l>Some, that they others might <hi>inſlave;</hi>
+               </l>
+               <l>Some, for <hi>Religion,</hi> and for CHRIST;</l>
+               <l>Some, that, they may do what they <hi>liſt;</hi>
+               </l>
+               <l>Some, for the <hi>Common-wealths</hi> availe;</l>
+               <l>Some, for <hi>themſelves,</hi> with tooth, and naile;</l>
+               <pb n="3" facs="tcp:117177:3"/>
+               <l> And, they that have the <hi>baſeſt end,</hi>
+               </l>
+               <l>As fairly, as the <hi>beſt,</hi> pretend;</l>
+               <l>Not caring, whether their deſire</l>
+               <l>Obtained be, by <hi>ſword,</hi> or <hi>fire;</hi>
+               </l>
+               <l>By <hi>truth</hi> or <hi>lies,</hi> with <hi>love</hi> or <hi>hate;</hi>
+               </l>
+               <l>By <hi>treachery,</hi> or <hi>faire debate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This is our <hi>poſture;</hi> and, whilſt we</l>
+               <l>So <hi>fooliſh, falſe,</hi> and <hi>factious</hi> be,</l>
+               <l>(Or whilſt affaires continue thus)</l>
+               <l>Who knowes what will become of us?</l>
+               <l>Or, when the <hi>man,</hi> who theſe lines pen'd,</l>
+               <l>Shall find <hi>good uſage,</hi> or a <hi>friend?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ask thoſe who now of <hi>peace</hi> do dream,</l>
+               <l>Who, ſhall procure the ſame, for them,</l>
+               <l>If many are become their foes,</l>
+               <l>Whom they to be their Champions choſe:</l>
+               <l>If theſe our ſubſtance have beſtown,</l>
+               <l>To make <hi>new fortunes,</hi> of their own;</l>
+               <l>If they the <hi>publike wrongs</hi> encreaſe,</l>
+               <l>To gain themſelves a <hi>private peace;</hi>
+               </l>
+               <l>If yet, the <hi>people</hi> doubtings have,</l>
+               <l>What to refuſe, or what to crave;</l>
+               <l>If they unſetled, yet, abide,</l>
+               <l>And conſtant unto neither ſide;</l>
+               <l>If, ſcarcely, they reſolved are,</l>
+               <l>Whether, they would have <hi>peace,</hi> or <hi>warre;</hi>
+               </l>
+               <l>Or, whether re-admit they ſhall</l>
+               <l>
+                  <hi>Charles</hi> to be King, or none at all;</l>
+               <l>For, doubtleſſe, if theſe matters go</l>
+               <l>As honeſt men much fear they do,</l>
+               <l>A <hi>wiſe man</hi> needs not break his brain</l>
+               <l>To ſearch what <hi>peace</hi> we ſhall obtain;</l>
+               <l>Since, whilſt thus blind, and mad we be,</l>
+               <l>What will enſue, a <hi>foole</hi> may ſee.</l>
+            </lg>
+            <lg>
+               <l>Ask of our <hi>Lords,</hi> that, were the <hi>skreen</hi>
+               </l>
+               <l>Which, anciently, did ſtand between</l>
+               <l>The <hi>King,</hi> and <hi>Commons,</hi> what th'intaile</l>
+               <l>Of <hi>titles,</hi> without <hi>power,</hi> availe</l>
+               <l>To ſuch an uſe; And, how the <hi>ſhade</hi>
+               </l>
+               <l>Of what their <hi>Predeceſſors</hi> had</l>
+               <l>Shall find ſufficiencie to do,</l>
+               <l>What, oft, the <hi>ſubſtance</hi> reach'd not to:</l>
+               <l>And, having weigh'd <hi>what they are now;</hi>
+               </l>
+               <l>
+                  <hi>What they have been;</hi> what <hi>they may grow,</hi>
+               </l>
+               <l>And, what <hi>we feare,</hi> till fixt they are,</l>
+               <l>As honourably, in their <hi>ſpheare,</hi>
+               </l>
+               <l>As heretofore: Or, till the <hi>State</hi>
+               </l>
+               <l>Shall all her <hi>ſpheares</hi> anew create,</l>
+               <l>And place them ſo, that, neither <hi>Orb</hi>
+               </l>
+               <l>Each others motion ſhall diſturb;</l>
+               <l>Think, what we juſtly may expect</l>
+               <l>Thoſe claſhings will, at laſt effect,</l>
+               <l>Which now <hi>obſtructive</hi> are; and may</l>
+               <l>
+                  <hi>Deſtructive</hi> prove, another day;</l>
+               <l>If ſome <hi>new miſchief</hi> ſhould begin</l>
+               <l>Without our <hi>circle,</hi> or within,</l>
+               <l>Before the feinds appeas'd are grown,</l>
+               <l>Which, we have almoſt conjur'd down:</l>
+               <l>For, by conſid'ring things like theſe,</l>
+               <l>You may conjecture, if you pleaſe,</l>
+               <l>(Without a new <hi>Prognoſtication</hi>)</l>
+               <l>What will befall this <hi>Generation.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet, leaſt preſumptions may ariſe</l>
+               <l>(To foole you with falſe hopes and lies)</l>
+               <l>Obſerve the <hi>Commons,</hi> if, of them,</l>
+               <l>None ſerve two Maſters at a time:</l>
+               <l>Nay, ſearch if none among them be</l>
+               <l>Who, ſervants are, this day, to <hi>three,</hi>
+               </l>
+               <l>And falſe to all: Obſerve, of thoſe</l>
+               <l>Whom we for <hi>publike-ſervice</hi> choſe,</l>
+               <l>How many fail'd the <hi>Common-truſt;</hi>
+               </l>
+               <l>How vile ſome are, and how unjuſt:</l>
+               <l>How perilous, and hard a taske<g ref="char:punc">▪</g>
+               </l>
+               <l>It is, thoſe <hi>Members</hi> to unmaske</l>
+               <l>That, in affection, are unſound;</l>
+               <l>How much more hard when they are found</l>
+               <l>To cut them off: what mean effect</l>
+               <l>The <hi>faithfull party</hi> muſt expect</l>
+               <l>Concerning <hi>peace,</hi> while ſuch as they</l>
+               <l>The cunning <hi>Ambodexters</hi> play;</l>
+               <l>And what ſmall hope there is of reſt,</l>
+               <l>While we have <hi>Cancers</hi> in our breaſt.</l>
+            </lg>
+            <lg>
+               <l>Ask them, who ſit to take Accounts,</l>
+               <l>To what their two years paine amounts;</l>
+               <l>Or, what the <hi>Common-wealth</hi> it betters,</l>
+               <l>When they have found who are her <hi>debters;</hi>
+               </l>
+               <l>If, when their guiltineſſe is known,</l>
+               <l>And publiſhed throughout the town,</l>
+               <pb n="4" facs="tcp:117177:4"/>
+               <l> A <hi>cheating-Sharke</hi> may raile at <hi>them</hi>
+               </l>
+               <l>Who juſtly have convicted <hi>him;</hi>
+               </l>
+               <l>Yea, be employed as before,</l>
+               <l>Where he may cheat the <hi>State</hi> of more;</l>
+               <l>And be as confident, as tho</l>
+               <l>He merited by doing ſo.</l>
+               <l>Aske, if they have not power to call</l>
+               <l>Aſwell the <hi>great ones,</hi> as the <hi>ſmall,</hi>
+               </l>
+               <l>To give accompt; Thoſe, whom we heare</l>
+               <l>
+                  <hi>Cum Privil<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gio</hi> (as it were)</l>
+               <l>Have plunder'd, at an eaſie rate,</l>
+               <l>
+                  <hi>Coyne, Jewells, Houſhold-ſtuffe</hi> and <hi>Plate;</hi>
+               </l>
+               <l>And if you find they have not leave</l>
+               <l>To queſtion all men who deceive</l>
+               <l>The <hi>Publike-Truſt,</hi> know, we are yet,</l>
+               <l>For <hi>Peace with Righteouſneſſe,</hi> unfit.</l>
+            </lg>
+            <lg>
+               <l>Then ſearch, if you have eyes to ſee</l>
+               <l>
+                  <hi>Paths,</hi> that ſo blind, ſo crooked be,</l>
+               <l>What courſes thoſe <hi>Committees</hi> take</l>
+               <l>Which, every where, ſuch rumblings make.</l>
+               <l>Marke ſeriouſly, if they appeare</l>
+               <l>Such, as the people ſay they are;</l>
+               <l>So falſe, ſo proud, ſo inſolent,</l>
+               <l>So careleſſe whom they diſcontent;</l>
+               <l>So ſcandalous unto the State,</l>
+               <l>In proſecuting private hate;</l>
+               <l>So bold, from <hi>Equity</hi> to varie,</l>
+               <l>By <hi>courſes</hi> meerly <hi>Arbitrarie;</hi>
+               </l>
+               <l>And if you finde them to be ſuch,</l>
+               <l>You need not then to queſtion much</l>
+               <l>What will befall this harrowed Land,</l>
+               <l>VVhile theſe Authorized ſhall ſtand.</l>
+            </lg>
+            <lg>
+               <l>Then, mark what favours now ſome have</l>
+               <l>Who ſought theſe Kingdomes to inſlave;</l>
+               <l>How well-befriended, ſome appeare,</l>
+               <l>Who <hi>Neuters</hi> were, and worſe now are;</l>
+               <l>How, ſome expoſed be to ſcorne</l>
+               <l>Who, of this warre, the heat have borne;</l>
+               <l>What ſcandalls are of them devis'd;</l>
+               <l>How their deſerts are under-priz'd:</l>
+               <l>And, having heedfully ſurvey'd</l>
+               <l>How <hi>good,</hi> with <hi>evill,</hi> is repay'd;</l>
+               <l>Mind well the <hi>Doctrine,</hi> and the <hi>uſe,</hi>
+               </l>
+               <l>And think, what theſe things may produce.</l>
+            </lg>
+            <lg>
+               <l>Enquire, moreover, how you find</l>
+               <l>To <hi>workes of mercy,</hi> men inclin'd;</l>
+               <l>How, their poor wives and children fare,</l>
+               <l>Who for their <hi>Countre<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ſlaughter'd are;</l>
+               <l>How, <hi>honeſt cauſes</hi> are preferr'd;</l>
+               <l>How ſpeedily your <hi>ſuits</hi> are heard;</l>
+               <l>How <hi>Offices</hi> conferred be;</l>
+               <l>And if ſome have not two, or three,</l>
+               <l>Who for the <hi>publike,</hi> neither <hi>ſpent,</hi>
+               </l>
+               <l>Nor <hi>gave,</hi> nor <hi>hazzarded,</hi> nor <hi>lent,</hi>
+               </l>
+               <l>Ought worth regard, whilſt they have none,</l>
+               <l>Who in your ſervice, were undone.</l>
+            </lg>
+            <lg>
+               <l>Obſerve, how equally men ſhare</l>
+               <l>Thoſe <hi>Penſions</hi> which allowed are:</l>
+               <l>How little <hi>Beſt-deſervers</hi> get;</l>
+               <l>How many of them, nere a whit;</l>
+               <l>How conſcionably, and, how well,</l>
+               <l>
+                  <hi>Rewards,</hi> and <hi>Puniſhments,</hi> we deal,</l>
+               <l>Which are the <hi>Pillars,</hi> whereon ſtand</l>
+               <l>The <hi>Peace,</hi> and <hi>Honour</hi> of the <hi>Land.</hi>
+               </l>
+               <l>Obſerve, if when we ſpend a day</l>
+               <l>In <hi>praiſes,</hi> or to <hi>faſt,</hi> and <hi>pray,</hi>
+               </l>
+               <l>If <hi>preaching</hi> tend not more to ſtrife.</l>
+               <l>Then to <hi>ſound-Doctrine,</hi> or <hi>good-life;</hi>
+               </l>
+               <l>If more we ſeeke not to fulfill</l>
+               <l>Our ſev'rall <hi>humours,</hi> and our <hi>will,</hi>
+               </l>
+               <l>Then to performe a <hi>Thank-oblation,</hi>
+               </l>
+               <l>Or, <hi>duties of Humiliation;</hi>
+               </l>
+               <l>Or, if the worſhip we profeſſe</l>
+               <l>Be not an out-ſide holineſſe,</l>
+               <l>No deeper rooted then the tongue;</l>
+               <l>Forc'd fruit, that fades as ſoon as ſprung:</l>
+               <l>For, as it proveth, when you ſee</l>
+               <l>Theſe things to tryall brought ſhall be,</l>
+               <l>You may without much failing, gheſſe,</l>
+               <l>What likelihoods we have of <hi>Peace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then, if you be not ſome of <hi>thoſe</hi>
+               </l>
+               <l>Who ſlight what other men propoſe,</l>
+               <l>How probable ſoere it ſeem,</l>
+               <l>(Unleſſe it may advantage them,</l>
+               <l>Or propagate the private ends,</l>
+               <l>Of their Confederates, and Friends)</l>
+               <l>An <hi>eare,</hi> and <hi>eye,</hi> pray ſomtime have ye</l>
+               <l>Upon our <hi>Armies,</hi> and the <hi>Navie:</hi>
+               </l>
+               <pb n="5" facs="tcp:117177:4"/>
+               <l> An <hi>eye,</hi> ſecurely to behold;</l>
+               <l>An <hi>care</hi> to heare what hath been told,</l>
+               <l>Of ſome, who much intruſted were</l>
+               <l>With <hi>Arms,</hi> and with <hi>proviſions</hi> there;</l>
+               <l>Or, had <hi>Commiſſions</hi> to array,</l>
+               <l>To <hi>furniſh, fortifie,</hi> or <hi>pay</hi>
+               </l>
+               <l>
+                  <hi>Ships, Forts,</hi> or <hi>men:</hi> And, thoſe in chief,</l>
+               <l>Employ'd for <hi>Irelands</hi> firſt relief,</l>
+               <l>And our firſt <hi>Armies;</hi> Ev'n, when all</l>
+               <l>Did lye at ſtake, and ſeem to call</l>
+               <l>For faithfull, ſtout, and honeſt men:</l>
+               <l>Obſerve, how they diſcharged, then,</l>
+               <l>The truſt repos'd; how, ſome were made</l>
+               <l>Commanders; pay, and titles had;</l>
+               <l>But ſcarce a man: how, others, now,</l>
+               <l>Have us'd the <hi>Common-wealth,</hi> and <hi>you:</hi>
+               </l>
+               <l>And, if in any, you ſhall find</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>eceit,</hi> in this accurſed kind,</l>
+               <l>Forgive them not; yea, when at laſt</l>
+               <l>
+                  <hi>Acts of Oblivion,</hi> ſhall be paſt</l>
+               <l>For open foes; no grace provide</l>
+               <l>For men untrue to their owne ſide,</l>
+               <l>Leaſt, as our <hi>Peace,</hi> they have deferr'd,</l>
+               <l>They marre it, likewiſe, afterward:</l>
+               <l>But, as occaſions offered be,</l>
+               <l>Mind them, although you mind not me:</l>
+               <l>For, where, in favour, ſuch are found</l>
+               <l>When <hi>peace</hi> is made, 'twill not be ſound.</l>
+            </lg>
+            <lg>
+               <l>Enquire, (if you can tell of whom</l>
+               <l>To make inquirie) what's become</l>
+               <l>Of all the publike <hi>Proteſtations,</hi>
+               </l>
+               <l>Ingag'd for private Reparations;</l>
+               <l>What, of that <hi>Vow,</hi> which did expreſſe</l>
+               <l>A <hi>mutuall-aid,</hi> in all diſtreſſe;</l>
+               <l>What of the <hi>ſelf-denying-Vote,</hi>
+               </l>
+               <l>Which goodly hopes in us begot;</l>
+               <l>What of thoſe <hi>Orders,</hi> whereupon</l>
+               <l>Some truſted, till they were undone;</l>
+               <l>What of the <hi>publike-Faith,</hi> in which</l>
+               <l>We thought our ſelves exceeding rich,</l>
+               <l>Though all were loſt, ſo that remain'd</l>
+               <l>Inviolated, and unſtain'd:</l>
+               <l>Inquire (I ſay) throughout the <hi>Land,</hi>
+               </l>
+               <l>In what condition theſe now ſtand;</l>
+               <l>For, when of theſe you have obtain'd</l>
+               <l>That certainty, which may be gain'd,</l>
+               <l>It will, undoubtedly, appeare</l>
+               <l>What we may either hope or feare.</l>
+            </lg>
+            <lg>
+               <l>Inquire yet further, (leaſt you may</l>
+               <l>Expect, perhaps, a <hi>Sunſhine-day,</hi>
+               </l>
+               <l>And meet a ſtorme) in what good mind</l>
+               <l>That ſort of people you ſhall find</l>
+               <l>Yeleep'd the <hi>Clergie:</hi> For, the <hi>Stem</hi>
+               </l>
+               <l>Of all our miſchiefs was in <hi>Them.</hi>
+               </l>
+               <l>Their faction, avarice, and pride,</l>
+               <l>Did, firſt of all, this <hi>Iſle</hi> divide.</l>
+               <l>From them, at firſt, the <hi>Firebrand</hi> came</l>
+               <l>That ſet this <hi>Empire</hi> in a flame;</l>
+               <l>When 'twas nigh quench'd again, they blew</l>
+               <l>Thoſe coals, which did the fires renew,</l>
+               <l>They did the Nations re-ingage;</l>
+               <l>The peoples vexed minds inrage,</l>
+               <l>By fained ſhowes, and falſe pretences,</l>
+               <l>Abuſing tender conſciences.</l>
+               <l>The courſe, by them, at firſt, begun</l>
+               <l>Is, to this day, continued on:</l>
+               <l>And, therefore, take this <hi>Truth</hi> from me,</l>
+               <l>For, you ſhall find it true to be:</l>
+               <l>That, till you ſee <hi>theſe</hi> more eſtrang'd</l>
+               <l>From what they were; their <hi>poſture</hi> chang'd;</l>
+               <l>Yea, till they better their <hi>condition;</hi>
+               </l>
+               <l>Confine themſelves to their <hi>Commiſſion;</hi>
+               </l>
+               <l>Leave off to jangle, fool, and fiddle</l>
+               <l>With what they ſhould not intermeddle;</l>
+               <l>And, be as pious, and as wiſe</l>
+               <l>As they are outwardly preciſe;</l>
+               <l>(And, as thoſe few among them are,</l>
+               <l>For whoſe ſakes God abates the <hi>war</hi>)</l>
+               <l>Nor <hi>King,</hi> nor <hi>Peers,</hi> nor <hi>Commons</hi> neither,</l>
+               <l>Nor theſe united altogether,</l>
+               <l>Shall able be that <hi>Peace</hi> to make</l>
+               <l>Which their contentions will not ſhake</l>
+            </lg>
+            <lg>
+               <l>Make one <hi>inquirie</hi> more, to ſee,</l>
+               <l>And ſearch, what moſt of thoſe men be,</l>
+               <l>On whoſe endeavours you depend</l>
+               <l>To bring your troubles to an end<g ref="char:punc">▪</g>
+               </l>
+               <l>Mark, how their <hi>Duties</hi> they attend</l>
+               <l>In <hi>private,</hi> how their time they ſpend;</l>
+               <pb n="6" facs="tcp:117177:5"/>
+               <l> VVhat <hi>company</hi> they moſt frequent;</l>
+               <l>VVhat <hi>matters</hi> give them beſt content;</l>
+               <l>VVhat conſcience of their debts they make;</l>
+               <l>What wrongs they do; what bribes they take;</l>
+               <l>What by their neighbours they were thought</l>
+               <l>Til they obtained what they ſought;</l>
+               <l>And, to what purpoſe they employ,</l>
+               <l>The power, and places, they enjoy.</l>
+            </lg>
+            <lg>
+               <l>Then caſt an eye upon the <hi>Rabble;</hi>
+               </l>
+               <l>And, taking view (if you be able)</l>
+               <l>Of all together, great and ſmall,</l>
+               <l>Mark well the <hi>Tantamount</hi> of all.</l>
+               <l>Mark, if we be not like an Hoaſt</l>
+               <l>That's routed when the battell's loſt;</l>
+               <l>And, if we deale not <hi>gifts,</hi> and <hi>blowes,</hi>
+               </l>
+               <l>Like <hi>madmen,</hi> both to friends and foes:</l>
+               <l>Mark, how thoſe <hi>hypocrites,</hi> that here</l>
+               <l>Promoters of the <hi>truth</hi> appeare,</l>
+               <l>VValk in their <hi>masking-ſuits</hi> abroad,</l>
+               <l>As if they thought, to cozen God,</l>
+               <l>As they do men<g ref="char:punc">▪</g> Mark too, that <hi>crew,</hi>
+               </l>
+               <l>VVhich is prophane in open view,</l>
+               <l>How boldly, and how daringly</l>
+               <l>(Ev'n when Gods thunderbolts do fly)</l>
+               <l>They do offend; and, whether we</l>
+               <l>May not to thoſe, compared be,</l>
+               <l>VVho, ſawing are thoſe planks aſunder,</l>
+               <l>VVhereon they ſtand, when Hell is under.</l>
+            </lg>
+            <lg>
+               <l>VVhen theſe <hi>inquiries</hi> you have made,</l>
+               <l>To ſee what light may thence be had;</l>
+               <l>And when you know, as well as I,</l>
+               <l>Thoſe hindrances, and reaſons, why</l>
+               <l>That VOICE of <hi>Peace,</hi> yet goes not on,</l>
+               <l>VVhich this time <hi>twelve moneth</hi> was begun;</l>
+               <l>And, ſhall obſerve, with due regard,</l>
+               <l>VVhat hath been formerly declar'd;</l>
+               <l>I will diſcloſe a great deal more,</l>
+               <l>Then I have told you heretofore:</l>
+               <l>But, not till then: yet, leaſt you may</l>
+               <l>Deſpaire, or faint, before that day;</l>
+               <l>I will deliver, ere I go,</l>
+               <l>A comfortable word or two.</l>
+            </lg>
+            <lg>
+               <l>There may be PEACE, ere long, though y<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>We nor know how, nor merit it:</l>
+               <l>For, GOD oft ſhewes great <hi>mercies,</hi> where </l>
+               <l>The greateſt of all <hi>ſinners</hi> are;</l>
+               <l>And if <hi>ſelf-ſeekers</hi> be deſcri'd,</l>
+               <l>Before this <hi>Iſle</hi> they more divide;</l>
+               <l>If <hi>Factions, VVrongs,</hi> and <hi>Diſcontent</hi>
+               </l>
+               <l>Indanger not this Parliament;</l>
+               <l>And, if the <hi>Faithfull-Members</hi> can</l>
+               <l>But caſt out from them now and than</l>
+               <l>A <hi>trouble-houſe:</hi> And, timely ſwage</l>
+               <l>The vexed <hi>peoples</hi> riſing rage;</l>
+               <l>Offer, three more, ſuch <hi>peace-oblations</hi>
+               </l>
+               <l>As that was of th'EXAMINATIONS;</l>
+               <l>And out of <hi>Counties, Towns,</hi> and <hi>Cities,</hi>
+               </l>
+               <l>One <hi>Hecatombe</hi> of their <hi>Committees;</hi>
+               </l>
+               <l>And, by their prudence, worke it ſo,</l>
+               <l>That <hi>honeſt men</hi> eſteem'd may grow;</l>
+               <l>That, <hi>Prieſt</hi> and <hi>People,</hi> down may lay</l>
+               <l>Their works of <hi>ſtubble,</hi> and of <hi>hay,</hi>
+               </l>
+               <l>Their <hi>names,</hi> and <hi>terms,</hi> of SEPARATION<g ref="char:punc">▪</g>
+               </l>
+               <l>And meekly ſeeke the preſervation</l>
+               <l>Of TR<g ref="char:V">Ʋ</g>TH, in LOVE; if, in one yeare,</l>
+               <l>
+                  <hi>Peace</hi> be not firmely ſetled here;</l>
+               <l>My <hi>loanes,</hi> and <hi>loſſes,</hi> yet unpaid,</l>
+               <l>(With my <hi>Arrears,</hi> three years delay'd)</l>
+               <l>Ile forfeit wholly to the <hi>State;</hi>
+               </l>
+               <l>And, live ſtill, as I've done of late,</l>
+               <l>By ſwallowing <hi>wrongs,</hi> by empty <hi>Aire,</hi>
+               </l>
+               <l>And, <hi>patience,</hi> kept, through <hi>faith,</hi> and <hi>prayer,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus, to the <hi>Queſtion</hi> made, you have</l>
+               <l>That <hi>Anſwer,</hi> which our <hi>Priſoner</hi> gave<g ref="char:punc">▪</g>
+               </l>
+               <l>VVho, other <hi>Tales</hi> will tell, if He</l>
+               <l>Much longer, ſhall impriſon'd be.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Spaniel</hi> beaten, at your foot will lie:</l>
+               <l>An <hi>Engliſh-Maſtive,</hi> at your face will flie.</l>
+            </lg>
+            <closer>Take this, and conſider of it, till more comes.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
